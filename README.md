@@ -1,24 +1,7 @@
 # q-fliqs
 
-## Project setup
-```
-npm install
-```
+Q Flix is a movie streaming web application build using Vuejs and Nodejs and MongoDB database.
+I hosted the web application on my own server using port forwarding on my router to allow internet users to access the service
+I also intergrated mpesa payments but never went live.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+It allows user to view content on a subscription basis.
